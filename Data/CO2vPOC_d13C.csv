@@ -1,0 +1,20 @@
+Date,Site,Location,Pool_type,POC_d13C,CO2_d13C,uncertainty
+04/11/2014,LL02,Loch Leir,Natural,-26.1,-10.888,0.1
+04/11/2014,LL03,Loch Leir,Natural,-25.441,-11.74,0.1
+04/11/2014,LL11,Loch Leir,Restoration,-26.746,-13.667,0.1
+20/05/2014,P01,Cross Lochs,Natural,-27.481,-11.016,0.1
+15/09/2015,P01,Cross Lochs,Natural,-26.776,-10.843,0.1
+20/05/2014,P04,Cross Lochs,Natural,-27.821,-10.831,0.1
+05/11/2014,P04,Cross Lochs,Natural,-24.608,-12.974,0.1
+15/09/2015,P04,Cross Lochs,Natural,-26.2,-11.9,0.1
+05/11/2014,P06,Cross Lochs,Natural,-26.8,-14.487,0.1
+15/09/2015,P06,Cross Lochs,Natural,-24.327,-9.444,0.1
+20/05/2014,P07,Cross Lochs,Restoration,-27.504,-18.11,0.1
+05/11/2014,P07,Cross Lochs,Restoration,-27.832,-11.281,0.1
+15/09/2015,P07,Cross Lochs,Restoration,-29.865,-17.824,0.1
+20/05/2014,P09,Cross Lochs,Restoration,-27.98,-16.48,0.1
+05/11/2014,P09,Cross Lochs,Restoration,-27.451,-15.309,0.1
+15/09/2015,P09,Cross Lochs,Restoration,-28.924,-17.974,0.1
+20/05/2014,P10,Cross Lochs,Restoration,-28.383,-20.518,0.1
+05/11/2014,P10,Cross Lochs,Restoration,-27.384,-18.371,0.1
+15/09/2015,P10,Cross Lochs,Restoration,-28.998,-17.366,0.1
