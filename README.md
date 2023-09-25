@@ -14,10 +14,10 @@ All the data required to run the code can be found in the subfolder titled:
 "Data"
 
 The original data can be found in the Environmental Information Data Centre:
-... doi to come...
+https://doi.org/10.5285/d417b1b9-eaba-4b9d-ba2c-dfb53973b113 
 
 ... and in Supplementary Table 1 of the maanuscript:
-... doi to come...
+Doi to TBC
 
-The code is provided for the purpose of reproducibility, not as an exemplar of excellent coding!
+The code is provided for the purpose of reproducibility only, not as an exemplar of excellent coding!
 All code and data files included in this repository were managed and uploaded by JFDean.
