@@ -7,7 +7,7 @@ This repository contains the R code used for all data analysis in the manuscript
 by:
 Joshua F. Dean, Michael F. Billett, T. Edward Turner, Mark H. Garnett, Roxane Andersen, Rebecca M. McKenzie, Kerry J. Dinsmore, Andy J. Baird, Pippa J. Chapman & Joseph Holden
 
-submitted to:
+an article ccepted for publication in:
 Global Change Biology
 
 All the data required to run the code can be found in the subfolder titled:
