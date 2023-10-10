@@ -19,5 +19,6 @@ https://doi.org/10.5285/d417b1b9-eaba-4b9d-ba2c-dfb53973b113
 ... and in Supplementary Table 1 of the maanuscript:
 Doi to TBC
 
-This code is provided for the purpose of reproducibility only, not as an exemplar of excellent coding! (at least I didn't do it in Excel...)
+This code is provided for the purpose of reproducibility only, not as an exemplar of excellent coding!
+(At least I didn't do it in Excel...)
 All code and data files included in this repository were managed and uploaded by JFDean.
